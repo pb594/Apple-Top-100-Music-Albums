@@ -11,8 +11,8 @@ This Sample Project contains below mentioned list of features :
 
 
 Getting Started
-Install Pods
-As per the compatibility of your Xcode , update the realm pod version following :
+Re-Install Pods
+As per the compatibility of your Xcode , update the realm pod version following below link :
 
 https://github.com/realm/realm-swift/releases
 
